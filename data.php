@@ -48,5 +48,14 @@ $preguntas = [
     '&amp;&amp;, ||, and, or, !',
     '$, &amp;, //, /* */, { }']
   ],
+  [
+    'pregunta'=> '6. ¿PHP es un lenguaje tipado?',
+    'name'=>'p6',
+    'respuesta' => 2,
+    'input' => [ 
+      'Sí',
+    'No',
+    'A veces']
+  ],
 
 ];
